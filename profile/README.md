@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-  <em>Engineered for Architecture, Entertainment and Industry.</em>
+  <em>Engineered for Architecture, Entertainment and Industry - Internal Access</em>
 </p>
